@@ -1,0 +1,12 @@
+INSERT INTO dividend (company,fiscal_year) values ('AHPC',20702071);
+INSERT INTO dividend (company,fiscal_year) values ('AHPC',20712072 );
+INSERT INTO dividend (company,fiscal_year) values ('AHPC',20732074);
+INSERT INTO dividend (company,fiscal_year) values ('AHPC',20762077);
+INSERT INTO dividend (company,fiscal_year) values ('CZBIL',20692070);
+INSERT INTO dividend (company,fiscal_year) values ('CZBIL',20702071);
+INSERT INTO dividend (company,fiscal_year) values ('CZBIL',20712072);
+INSERT INTO dividend (company,fiscal_year) values ('CZBIL',20732074);
+INSERT INTO dividend (company,fiscal_year) values ('GBIME',20692070);
+INSERT INTO dividend (company,fiscal_year) values ('GBIME',20702071);
+INSERT INTO dividend (company,fiscal_year) values ('GBIME',20712072);
+INSERT INTO dividend (company,fiscal_year) values ('GBIME',20732074);
